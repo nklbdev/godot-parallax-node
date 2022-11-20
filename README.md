@@ -1,4 +1,4 @@
-# godot-parallax-node
+# Parallax 2D node for Godot
 Provides parallax 2D node to avoid using ParallaxBackground
 
 This is a plugon for [Godot Engine](https://godotengine.org) that provides new class `Parallax` inherited from Node2D that moves itself relative to actual viewport center. It helps create beautiful volumetric decorations like foliage, distant or near objects ant other effects based on following viewport.
